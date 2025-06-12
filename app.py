@@ -17,7 +17,7 @@ API_VERSIONS = {
 }
 
 SETUP = {
-    'api_key': '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',
+    'api_key': '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',
     'ai_version': 'deepseek/deepseek-r1-0528:free'
 }
 
